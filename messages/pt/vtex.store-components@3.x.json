@@ -16,6 +16,8 @@
   "admin/editor.image.description": "Exiba qualquer imagem",
   "admin/editor.image.src.title": "Imagem",
   "admin/editor.image.title": "Imagem",
+  "admin/editor.image.title.title": "Título da imagem",
+  "admin/editor.image.title.description": "Título a ser mostrado quando você passa o mouse pela imagem",
   "admin/editor.info-card.callAction.button": "Botão",
   "admin/editor.info-card.callAction.link": "Link",
   "admin/editor.info-card.callAction.none": "Nenhum",
