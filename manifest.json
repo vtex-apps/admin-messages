@@ -1,7 +1,7 @@
 {
   "name": "admin-messages",
   "vendor": "vtex",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "title": "Admin Messages",
   "description": "Contains all admin messages for vendor VTEX",
   "builders": {
