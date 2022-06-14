@@ -1,0 +1,19 @@
+{
+  "Author": "الكاتب",
+  "Draft": "المسودة",
+  "Live": "مباشرةً",
+  "Name": "الإسم",
+  "Type": "النوع",
+  "High": "عالي",
+  "Low": "منخفض",
+  "Medium": "متوسط",
+  "of": "من",
+  "Search": "بحث",
+  "Content": "المحتوى",
+  "Hide all": "إخفاء الكل",
+  "Show all": "عرض الكل",
+  "Line density": "كثافة الخط",
+  "Show rows": "عرض الخانات",
+  "Last update": "آخر تحديث",
+  "Toggle visible fields": "تبديل الحقول المرئية"
+}
